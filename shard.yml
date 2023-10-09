@@ -1,0 +1,13 @@
+name: response-check
+version: 0.1.0
+
+authors:
+  - Denis Misiurca <infoman1985@gmail.com>
+
+targets:
+  response-check:
+    main: src/response-check.cr
+
+crystal: 1.8.2
+
+license: MIT
